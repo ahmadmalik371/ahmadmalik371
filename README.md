@@ -117,7 +117,7 @@ Selected independent research-oriented and experimental projects have been publi
 
 ## Additional Technical Work
 
-### AI-ATS — Intelligent Applicant Tracking System
+### AI-ATS : Intelligent Applicant Tracking System
 
 A larger software project exploring machine-learning-assisted candidate screening, semantic matching, API architecture, databases, deployment, and production-oriented system design.
 
@@ -143,9 +143,9 @@ Virtual University of Pakistan · 2024–Present
 
 * **Mathematics for Machine Learning: Linear Algebra** — Imperial College London / Coursera
 * **IBM Data Science Professional Certificate** — IBM / Coursera
-* **AI For Everyone** — DeepLearning.AI / Andrew Ng
-* **Web Development & AI Fundamentals** — CORVIT Systems Lahore
-* **Prime Minister's Youth Skills Development Program** — NAVTTC / Nuova Education
+* **AI For Everyone**  DeepLearning.AI / Andrew Ng
+* **Web Development & AI Fundamentals**  CORVIT Systems Lahore
+* **Prime Minister's Youth Skills Development Program**  NAVTTC / Nuova Education
 
 I also independently study current AI-agent technical material, including material covering **agent architecture, model–harness interaction, and evaluation**. Where a program was not formally completed, I describe the work as independent study rather than claiming completion.
 
