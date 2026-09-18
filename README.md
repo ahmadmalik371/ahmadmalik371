@@ -2,7 +2,7 @@
 
 ### Data Science Undergraduate | AI/ML Research | Intelligent Systems
 
-I am a **BS Data Science undergraduate at Virtual University of Pakistan** with a **3.71/4.00 CGPA**, interested in building and studying intelligent systems at the intersection of **Artificial Intelligence, Machine Learning, Data Science, AI Agents, Recommender Systems, and Mathematical Optimization**.
+I am a **BS Data Science undergraduate at Virtual University of Pakistan** with a **3.74/4.00 CGPA**, interested in building and studying intelligent systems at the intersection of **Artificial Intelligence, Machine Learning, Data Science, AI Agents, Recommender Systems, and Mathematical Optimization**.
 
 My work combines software development with experimentation, technical documentation, and independent research-oriented projects. I use GitHub to maintain project code and Zenodo to publicly archive selected research outputs.
 
